@@ -1,1 +1,1 @@
-# same-industry-sales
+# 주제: 동종업계 수가 매출액에 미치는 영향
